@@ -46,7 +46,7 @@ Welcome to the **Unity 2D Platformer Game**! This project is a beginner-to-inter
   - `DeadZone.cs`: Teleport back the player to the startspoint of the game scene.
   - `Startpoint.cs`: Init a start spawnpoint for the player and when he go in the deadzone.
   - `Checkpoint.cs`: Move the startpoint value when player cross it.
-  - `OneWayPlatform`: check if player is under the platform and disable or enable the collider.
+  - `OneWayPlatform.cs`: check if player is under the platform and disable or enable the collider.
 - **Scenes/**
   - `LevelScene`: The level scene for the game.
   - `TitleScene`: The title scene that load the level when start button is pressed.
