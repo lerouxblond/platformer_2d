@@ -7,7 +7,7 @@ Welcome to the **Unity 2D Platformer Game**! This project is a beginner-to-inter
 - **Player Movement:** Smooth movement mechanics with jumping functionality.
 - **Dynamic Camera:** Follows the player with boundaries to avoid showing empty space.
 - **Platforms:** Includes standard platforms and pass-through platforms for jumping.
-- **Hazards:** Dead zones that reset the scene when the player falls.
+- **Hazards:** Dead zones that teleport back to ground when the player falls.
 - **Expandable Design:** Easy to add new levels, enemies, and mechanics.
 
 ---
